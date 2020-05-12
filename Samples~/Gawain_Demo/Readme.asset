@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcf7219bab7fe46a1ad266029b2fee19, type: 3}
+  m_Name: Readme
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2800000, guid: 4d27a5223339bc440bece4658e4a1499, type: 3}
+  title: 'The Heretic: Digital Human (Gawain)'
+  sections:
+  - heading: Introduction
+    text: This demonstration scene feaures <i>Gawain</i>, the digital human character
+      asset from <i>The Heretic</i>. Enter play mode to start the interactive demo.
+    linkText: 
+    url: 
+  - heading: Basic controls
+    text: 'While in play mode, the widgets in the upper left corner of the game view
+      can be used to switch camera modes, change character state, and explore different
+      lighting presets.
+
+
+      Click and drag anywhere else on the screen to enter
+      the free camera mode, to manually rotate, pan and zoom:
+
+
+      - Left mouse
+      + drag: Rotate.
+
+      - Right mouse + drag up/down: Pan.
+
+      - Right mouse
+      + drag left/right, or wheel: Zoom.
+
+
+      Additional hotkeys:
+
+
+      - [q,w,e,r,t]:
+      Camera mode.
+
+      - [a,s,d]: Character state.
+
+      - [1-6]: Lighting preset.'
+    linkText: 
+    url: 
+  - heading: Advanced controls
+    text: 'It is also possible to pose the face and body of Gawain directly in the
+      scene view. For the face, a facial rig from Snappers is integrated and used
+      to drive a wide range of facial expressions through markers on the skin. And
+      for the body, the asset also implements a control rig based on features from
+      the Animation Rigging package.
+
+
+      Both of these features require a bit
+      more work to access and use. The steps are outlined in the next two sections:'
+    linkText: 
+    url: 
+  - heading: Advanced controls - Face
+    text: '1. Find the "SNAPPERS:Head" GameObject in the scene and select it. Make
+      sure it is also visible in the inspector.
+
+
+      2. Enable Gizmos in the scene
+      view, and check that the "SnappersHeadRenderer" component is <i>not</i> folded
+      in the inspector.
+
+
+      3. A set of blue markers should now be visible on
+      the face in the scene view. Each of these markers can be dragged to edit the
+      pose.
+
+
+      Tip #1: It can be useful to select the pose state if editing
+      while in play mode. When the talk state is active, the talk animation will
+      be overlaid on top.
+
+
+      Tip #2: You can revert the edited pose in a couple
+      of different ways. The easiest is to simply revert the "Gawain_DemoVariant"
+      prefab in edit mode. Otherwise, find the "Gawain_SnappersControllers" GameObject
+      and click the revert button in the inspector.'
+    linkText: 
+    url: 
+  - heading: Advanced controls - Body
+    text: '1. If in play mode, first select the pose state for the character.
+
+
+      2.
+      If in edit mode, open the Animation window and make sure that the Preview mode
+      is enabled. This is required for the control rig to work.
+
+
+      3. Find the
+      "Gawain_DemoVariant" GameObject in the scene and select it. Make sure it is
+      also visible in the inspector.
+
+
+      4. Enable the "Rig Builder" component,
+      and enable Gizmos in the scene view. A set of handles should now appear in
+      the scene view for posing the body.
+
+'
+    linkText: 
+    url: 
+  - heading: Technology
+    text: 'The Gawain asset uses a tech library that has been built as part of realizing
+      the digital human in <i>The Heretic</i>. However, the tech library is not specific
+      to the Gawain asset, and intended for reuse. It is available as a package on
+      GitHub:'
+    linkText: com.unity.demoteam.digital-human
+    url: https://github.com/Unity-Technologies/com.unity.demoteam.digital-human
+  loadedLayout: 1

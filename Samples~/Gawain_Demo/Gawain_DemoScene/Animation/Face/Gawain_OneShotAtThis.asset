@@ -1,0 +1,2107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8e67a3c5613b1341b0a2a386ab10ebf, type: 3}
+  m_Name: Gawain_OneShotAtThis
+  m_EditorClassIdentifier: 
+  frameCount: 407
+  frameRate: 30
+  frameVertexCount: 28010
+  frameFittedWeightsCount: 322
+  frames:
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  - albedo: {fileID: 0}
+  framesContainAlbedo: 0
+  framesContainDeltas: 1
+  framesContainFittedWeights: 1
+  frameDataStreamingAssetsPath: /SkinDeformationClip/1ab4a6f1bbfeefd42a936fb27976dbdf__Gawain_OneShotAtThis
+  subframeCount: 406
+  subframes:
+  - frameIndexLo: 0
+    frameIndexHi: 1
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 1
+    frameIndexHi: 2
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 2
+    frameIndexHi: 3
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 3
+    frameIndexHi: 4
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 4
+    frameIndexHi: 5
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 5
+    frameIndexHi: 6
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 6
+    frameIndexHi: 7
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 7
+    frameIndexHi: 8
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 8
+    frameIndexHi: 9
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 9
+    frameIndexHi: 10
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 10
+    frameIndexHi: 11
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 11
+    frameIndexHi: 12
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 12
+    frameIndexHi: 13
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 13
+    frameIndexHi: 14
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 14
+    frameIndexHi: 15
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 15
+    frameIndexHi: 16
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 16
+    frameIndexHi: 17
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 17
+    frameIndexHi: 18
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 18
+    frameIndexHi: 19
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 19
+    frameIndexHi: 20
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 20
+    frameIndexHi: 21
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 21
+    frameIndexHi: 22
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 22
+    frameIndexHi: 23
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 23
+    frameIndexHi: 24
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 24
+    frameIndexHi: 25
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 25
+    frameIndexHi: 26
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 26
+    frameIndexHi: 27
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 27
+    frameIndexHi: 28
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 28
+    frameIndexHi: 29
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 29
+    frameIndexHi: 30
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 30
+    frameIndexHi: 31
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 31
+    frameIndexHi: 32
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 32
+    frameIndexHi: 33
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 33
+    frameIndexHi: 34
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 34
+    frameIndexHi: 35
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 35
+    frameIndexHi: 36
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 36
+    frameIndexHi: 37
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 37
+    frameIndexHi: 38
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 38
+    frameIndexHi: 39
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 39
+    frameIndexHi: 40
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 40
+    frameIndexHi: 41
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 41
+    frameIndexHi: 42
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 42
+    frameIndexHi: 43
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 43
+    frameIndexHi: 44
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 44
+    frameIndexHi: 45
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 45
+    frameIndexHi: 46
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 46
+    frameIndexHi: 47
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 47
+    frameIndexHi: 48
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 48
+    frameIndexHi: 49
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 49
+    frameIndexHi: 50
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 50
+    frameIndexHi: 51
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 51
+    frameIndexHi: 52
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 52
+    frameIndexHi: 53
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 53
+    frameIndexHi: 54
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 54
+    frameIndexHi: 55
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 55
+    frameIndexHi: 56
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 56
+    frameIndexHi: 57
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 57
+    frameIndexHi: 58
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 58
+    frameIndexHi: 59
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 59
+    frameIndexHi: 60
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 60
+    frameIndexHi: 61
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 61
+    frameIndexHi: 62
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 62
+    frameIndexHi: 63
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 63
+    frameIndexHi: 64
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 64
+    frameIndexHi: 65
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 65
+    frameIndexHi: 66
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 66
+    frameIndexHi: 67
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 67
+    frameIndexHi: 68
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 68
+    frameIndexHi: 69
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 69
+    frameIndexHi: 70
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 70
+    frameIndexHi: 71
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 71
+    frameIndexHi: 72
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 72
+    frameIndexHi: 73
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 73
+    frameIndexHi: 74
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 74
+    frameIndexHi: 75
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 75
+    frameIndexHi: 76
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 76
+    frameIndexHi: 77
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 77
+    frameIndexHi: 78
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 78
+    frameIndexHi: 79
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 79
+    frameIndexHi: 80
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 80
+    frameIndexHi: 81
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 81
+    frameIndexHi: 82
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 82
+    frameIndexHi: 83
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 83
+    frameIndexHi: 84
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 84
+    frameIndexHi: 85
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 85
+    frameIndexHi: 86
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 86
+    frameIndexHi: 87
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 87
+    frameIndexHi: 88
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 88
+    frameIndexHi: 89
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 89
+    frameIndexHi: 90
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 90
+    frameIndexHi: 91
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 91
+    frameIndexHi: 92
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 92
+    frameIndexHi: 93
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 93
+    frameIndexHi: 94
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 94
+    frameIndexHi: 95
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 95
+    frameIndexHi: 96
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 96
+    frameIndexHi: 97
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 97
+    frameIndexHi: 98
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 98
+    frameIndexHi: 99
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 99
+    frameIndexHi: 100
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 100
+    frameIndexHi: 101
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 101
+    frameIndexHi: 102
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 102
+    frameIndexHi: 103
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 103
+    frameIndexHi: 104
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 104
+    frameIndexHi: 105
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 105
+    frameIndexHi: 106
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 106
+    frameIndexHi: 107
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 107
+    frameIndexHi: 108
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 108
+    frameIndexHi: 109
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 109
+    frameIndexHi: 110
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 110
+    frameIndexHi: 111
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 111
+    frameIndexHi: 112
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 112
+    frameIndexHi: 113
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 113
+    frameIndexHi: 114
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 114
+    frameIndexHi: 115
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 115
+    frameIndexHi: 116
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 116
+    frameIndexHi: 117
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 117
+    frameIndexHi: 118
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 118
+    frameIndexHi: 119
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 119
+    frameIndexHi: 120
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 120
+    frameIndexHi: 121
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 121
+    frameIndexHi: 122
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 122
+    frameIndexHi: 123
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 123
+    frameIndexHi: 124
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 124
+    frameIndexHi: 125
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 125
+    frameIndexHi: 126
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 126
+    frameIndexHi: 127
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 127
+    frameIndexHi: 128
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 128
+    frameIndexHi: 129
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 129
+    frameIndexHi: 130
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 130
+    frameIndexHi: 131
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 131
+    frameIndexHi: 132
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 132
+    frameIndexHi: 133
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 133
+    frameIndexHi: 134
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 134
+    frameIndexHi: 135
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 135
+    frameIndexHi: 136
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 136
+    frameIndexHi: 137
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 137
+    frameIndexHi: 138
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 138
+    frameIndexHi: 139
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 139
+    frameIndexHi: 140
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 140
+    frameIndexHi: 141
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 141
+    frameIndexHi: 142
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 142
+    frameIndexHi: 143
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 143
+    frameIndexHi: 144
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 144
+    frameIndexHi: 145
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 145
+    frameIndexHi: 146
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 146
+    frameIndexHi: 147
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 147
+    frameIndexHi: 148
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 148
+    frameIndexHi: 149
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 149
+    frameIndexHi: 150
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 150
+    frameIndexHi: 151
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 151
+    frameIndexHi: 152
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 152
+    frameIndexHi: 153
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 153
+    frameIndexHi: 154
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 154
+    frameIndexHi: 155
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 155
+    frameIndexHi: 156
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 156
+    frameIndexHi: 157
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 157
+    frameIndexHi: 158
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 158
+    frameIndexHi: 159
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 159
+    frameIndexHi: 160
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 160
+    frameIndexHi: 161
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 161
+    frameIndexHi: 162
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 162
+    frameIndexHi: 163
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 163
+    frameIndexHi: 164
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 164
+    frameIndexHi: 165
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 165
+    frameIndexHi: 166
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 166
+    frameIndexHi: 167
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 167
+    frameIndexHi: 168
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 168
+    frameIndexHi: 169
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 169
+    frameIndexHi: 170
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 170
+    frameIndexHi: 171
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 171
+    frameIndexHi: 172
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 172
+    frameIndexHi: 173
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 173
+    frameIndexHi: 174
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 174
+    frameIndexHi: 175
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 175
+    frameIndexHi: 176
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 176
+    frameIndexHi: 177
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 177
+    frameIndexHi: 178
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 178
+    frameIndexHi: 179
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 179
+    frameIndexHi: 180
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 180
+    frameIndexHi: 181
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 181
+    frameIndexHi: 182
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 182
+    frameIndexHi: 183
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 183
+    frameIndexHi: 184
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 184
+    frameIndexHi: 185
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 185
+    frameIndexHi: 186
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 186
+    frameIndexHi: 187
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 187
+    frameIndexHi: 188
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 188
+    frameIndexHi: 189
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 189
+    frameIndexHi: 190
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 190
+    frameIndexHi: 191
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 191
+    frameIndexHi: 192
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 192
+    frameIndexHi: 193
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 193
+    frameIndexHi: 194
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 194
+    frameIndexHi: 195
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 195
+    frameIndexHi: 196
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 196
+    frameIndexHi: 197
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 197
+    frameIndexHi: 198
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 198
+    frameIndexHi: 199
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 199
+    frameIndexHi: 200
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 200
+    frameIndexHi: 201
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 201
+    frameIndexHi: 202
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 202
+    frameIndexHi: 203
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 203
+    frameIndexHi: 204
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 204
+    frameIndexHi: 205
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 205
+    frameIndexHi: 206
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 206
+    frameIndexHi: 207
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 207
+    frameIndexHi: 208
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 208
+    frameIndexHi: 209
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 209
+    frameIndexHi: 210
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 210
+    frameIndexHi: 211
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 211
+    frameIndexHi: 212
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 212
+    frameIndexHi: 213
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 213
+    frameIndexHi: 214
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 214
+    frameIndexHi: 215
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 215
+    frameIndexHi: 216
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 216
+    frameIndexHi: 217
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 217
+    frameIndexHi: 218
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 218
+    frameIndexHi: 219
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 219
+    frameIndexHi: 220
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 220
+    frameIndexHi: 221
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 221
+    frameIndexHi: 222
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 222
+    frameIndexHi: 223
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 223
+    frameIndexHi: 224
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 224
+    frameIndexHi: 225
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 225
+    frameIndexHi: 226
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 226
+    frameIndexHi: 227
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 227
+    frameIndexHi: 228
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 228
+    frameIndexHi: 229
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 229
+    frameIndexHi: 230
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 230
+    frameIndexHi: 231
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 231
+    frameIndexHi: 232
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 232
+    frameIndexHi: 233
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 233
+    frameIndexHi: 234
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 234
+    frameIndexHi: 235
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 235
+    frameIndexHi: 236
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 236
+    frameIndexHi: 237
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 237
+    frameIndexHi: 238
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 238
+    frameIndexHi: 239
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 239
+    frameIndexHi: 240
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 240
+    frameIndexHi: 241
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 241
+    frameIndexHi: 242
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 242
+    frameIndexHi: 243
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 243
+    frameIndexHi: 244
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 244
+    frameIndexHi: 245
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 245
+    frameIndexHi: 246
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 246
+    frameIndexHi: 247
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 247
+    frameIndexHi: 248
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 248
+    frameIndexHi: 249
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 249
+    frameIndexHi: 250
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 250
+    frameIndexHi: 251
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 251
+    frameIndexHi: 252
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 252
+    frameIndexHi: 253
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 253
+    frameIndexHi: 254
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 254
+    frameIndexHi: 255
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 255
+    frameIndexHi: 256
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 256
+    frameIndexHi: 257
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 257
+    frameIndexHi: 258
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 258
+    frameIndexHi: 259
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 259
+    frameIndexHi: 260
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 260
+    frameIndexHi: 261
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 261
+    frameIndexHi: 262
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 262
+    frameIndexHi: 263
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 263
+    frameIndexHi: 264
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 264
+    frameIndexHi: 265
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 265
+    frameIndexHi: 266
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 266
+    frameIndexHi: 267
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 267
+    frameIndexHi: 268
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 268
+    frameIndexHi: 269
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 269
+    frameIndexHi: 270
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 270
+    frameIndexHi: 271
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 271
+    frameIndexHi: 272
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 272
+    frameIndexHi: 273
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 273
+    frameIndexHi: 274
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 274
+    frameIndexHi: 275
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 275
+    frameIndexHi: 276
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 276
+    frameIndexHi: 277
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 277
+    frameIndexHi: 278
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 278
+    frameIndexHi: 279
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 279
+    frameIndexHi: 280
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 280
+    frameIndexHi: 281
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 281
+    frameIndexHi: 282
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 282
+    frameIndexHi: 283
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 283
+    frameIndexHi: 284
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 284
+    frameIndexHi: 285
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 285
+    frameIndexHi: 286
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 286
+    frameIndexHi: 287
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 287
+    frameIndexHi: 288
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 288
+    frameIndexHi: 289
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 289
+    frameIndexHi: 290
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 290
+    frameIndexHi: 291
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 291
+    frameIndexHi: 292
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 292
+    frameIndexHi: 293
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 293
+    frameIndexHi: 294
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 294
+    frameIndexHi: 295
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 295
+    frameIndexHi: 296
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 296
+    frameIndexHi: 297
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 297
+    frameIndexHi: 298
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 298
+    frameIndexHi: 299
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 299
+    frameIndexHi: 300
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 300
+    frameIndexHi: 301
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 301
+    frameIndexHi: 302
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 302
+    frameIndexHi: 303
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 303
+    frameIndexHi: 304
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 304
+    frameIndexHi: 305
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 305
+    frameIndexHi: 306
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 306
+    frameIndexHi: 307
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 307
+    frameIndexHi: 308
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 308
+    frameIndexHi: 309
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 309
+    frameIndexHi: 310
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 310
+    frameIndexHi: 311
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 311
+    frameIndexHi: 312
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 312
+    frameIndexHi: 313
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 313
+    frameIndexHi: 314
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 314
+    frameIndexHi: 315
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 315
+    frameIndexHi: 316
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 316
+    frameIndexHi: 317
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 317
+    frameIndexHi: 318
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 318
+    frameIndexHi: 319
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 319
+    frameIndexHi: 320
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 320
+    frameIndexHi: 321
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 321
+    frameIndexHi: 322
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 322
+    frameIndexHi: 323
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 323
+    frameIndexHi: 324
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 324
+    frameIndexHi: 325
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 325
+    frameIndexHi: 326
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 326
+    frameIndexHi: 327
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 327
+    frameIndexHi: 328
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 328
+    frameIndexHi: 329
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 329
+    frameIndexHi: 330
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 330
+    frameIndexHi: 331
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 331
+    frameIndexHi: 332
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 332
+    frameIndexHi: 333
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 333
+    frameIndexHi: 334
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 334
+    frameIndexHi: 335
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 335
+    frameIndexHi: 336
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 336
+    frameIndexHi: 337
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 337
+    frameIndexHi: 338
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 338
+    frameIndexHi: 339
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 339
+    frameIndexHi: 340
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 340
+    frameIndexHi: 341
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 341
+    frameIndexHi: 342
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 342
+    frameIndexHi: 343
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 343
+    frameIndexHi: 344
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 344
+    frameIndexHi: 345
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 345
+    frameIndexHi: 346
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 346
+    frameIndexHi: 347
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 347
+    frameIndexHi: 348
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 348
+    frameIndexHi: 349
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 349
+    frameIndexHi: 350
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 350
+    frameIndexHi: 351
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 351
+    frameIndexHi: 352
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 352
+    frameIndexHi: 353
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 353
+    frameIndexHi: 354
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 354
+    frameIndexHi: 355
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 355
+    frameIndexHi: 356
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 356
+    frameIndexHi: 357
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 357
+    frameIndexHi: 358
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 358
+    frameIndexHi: 359
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 359
+    frameIndexHi: 360
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 360
+    frameIndexHi: 361
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 361
+    frameIndexHi: 362
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 362
+    frameIndexHi: 363
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 363
+    frameIndexHi: 364
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 364
+    frameIndexHi: 365
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 365
+    frameIndexHi: 366
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 366
+    frameIndexHi: 367
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 367
+    frameIndexHi: 368
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 368
+    frameIndexHi: 369
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 369
+    frameIndexHi: 370
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 370
+    frameIndexHi: 371
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 371
+    frameIndexHi: 372
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 372
+    frameIndexHi: 373
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 373
+    frameIndexHi: 374
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 374
+    frameIndexHi: 375
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 375
+    frameIndexHi: 376
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 376
+    frameIndexHi: 377
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 377
+    frameIndexHi: 378
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 378
+    frameIndexHi: 379
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 379
+    frameIndexHi: 380
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 380
+    frameIndexHi: 381
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 381
+    frameIndexHi: 382
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 382
+    frameIndexHi: 383
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 383
+    frameIndexHi: 384
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 384
+    frameIndexHi: 385
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 385
+    frameIndexHi: 386
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 386
+    frameIndexHi: 387
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 387
+    frameIndexHi: 388
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 388
+    frameIndexHi: 389
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 389
+    frameIndexHi: 390
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 390
+    frameIndexHi: 391
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 391
+    frameIndexHi: 392
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 392
+    frameIndexHi: 393
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 393
+    frameIndexHi: 394
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 394
+    frameIndexHi: 395
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 395
+    frameIndexHi: 396
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 396
+    frameIndexHi: 397
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 397
+    frameIndexHi: 398
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 398
+    frameIndexHi: 399
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 399
+    frameIndexHi: 400
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 400
+    frameIndexHi: 401
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 401
+    frameIndexHi: 402
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 402
+    frameIndexHi: 403
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 403
+    frameIndexHi: 404
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 404
+    frameIndexHi: 405
+    fractionLo: 0
+    fractionHi: 1
+  - frameIndexLo: 405
+    frameIndexHi: 406
+    fractionLo: 0
+    fractionHi: 1
+  version: 52
+  lastImport:
+    readFrom: 0
+    externalObjPath: AssetsRaw/Gawain_OneShotAtThis/
+    externalObjPattern: '*.obj'
+    meshAssetPath: 
+    meshAssetPrefix: 
+    albedoAssetPath: 
+    albedoAssetPrefix: 
+    keyframes: 0
+    keyframesCSV: {fileID: 0}
+    applyRotation: {x: 0, y: 0, z: 0}
+    applyScale: 0.01
+    denoiseRegions: []
+    denoiseStrength: 0
+    transplantRegions: []
+    transplantStrength: 0
+    solveRegionPreview: 0
+    solveWelded: 1
+    transferTarget: {fileID: 6092259683418221567, guid: 0370808b1049a6e43ae674ecf4cd784b,
+      type: 3}
+    transferMode: 1
+    fitToBlendShapes: 1
+    fittedIndices: 1,14,15,44,48,51,54,59,62,67,72,80,85,87,89,91,93,95,97,110,113,116,118,119,121,123,126,129,132,135,138,141,144,147,150,158,163,181,183,184,187,191,194,197,200,207,209,219,221,227,229,230,231,232,233,235,237,240,241,250,251,252,253,254,255,256,257,258,259,264,265,290,291,292,293,294,295
+    fittingMethod: 1
+    fittingParam: 0
+  importSettings:
+    readFrom: 0
+    externalObjPath: AssetsRaw/Gawain_OneShotAtThis/
+    externalObjPattern: '*.obj'
+    meshAssetPath: 
+    meshAssetPrefix: 
+    albedoAssetPath: 
+    albedoAssetPrefix: 
+    keyframes: 0
+    keyframesCSV: {fileID: 0}
+    applyRotation: {x: 0, y: 0, z: 0}
+    applyScale: 0.01
+    denoiseRegions: []
+    denoiseStrength: 0
+    transplantRegions: []
+    transplantStrength: 0
+    solveRegionPreview: 0
+    solveWelded: 1
+    transferTarget: {fileID: 6092259683418221567, guid: 0370808b1049a6e43ae674ecf4cd784b,
+      type: 3}
+    transferMode: 1
+    fitToBlendShapes: 1
+    fittedIndices: 1,14,15,44,48,51,54,59,62,67,72,80,85,87,89,91,93,95,97,110,113,116,118,119,121,123,126,129,132,135,138,141,144,147,150,158,163,181,183,184,187,191,194,197,200,207,209,219,221,227,229,230,231,232,233,235,237,240,241,250,251,252,253,254,255,256,257,258,259,264,265,290,291,292,293,294,295
+    fittingMethod: 1
+    fittingParam: 0
