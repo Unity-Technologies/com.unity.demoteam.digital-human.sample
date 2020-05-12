@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Readme
   m_EditorClassIdentifier: 
   icon: {fileID: 2800000, guid: 4d27a5223339bc440bece4658e4a1499, type: 3}
-  title: 'The Heretic: Digital Human (Gawain)'
+  title: 'The Heretic: Digital Human'
   sections:
   - heading: Introduction
     text: This demonstration scene feaures <i>Gawain</i>, the digital human character
