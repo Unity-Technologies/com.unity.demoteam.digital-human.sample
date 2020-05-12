@@ -1,0 +1,19 @@
+{
+  "name": "com.unity.demoteam.digital-human.sample",
+  "displayName": "Demo Team Digital Human Sample",
+  "version": "0.1.1-preview",
+  "unity": "2019.3",
+  "description": "Character sample featuring the digital human from 'The Heretic'.",
+  "dependencies": {
+    "com.unity.demoteam.digital-human": "0.1.1-preview",
+    "com.unity.animation.rigging": "0.2.6-preview",
+    "com.unity.test-framework": "1.1.14"
+  },
+  "samples": [
+    {
+      "displayName": "Gawain Demo",
+      "description": "Interactive demo featuring Gawain, the digital human from 'The Heretic.",
+      "path": "Samples~/Gawain_Demo"
+    }
+  ]
+}
