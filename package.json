@@ -3,6 +3,7 @@
   "displayName": "Demo Team Digital Human Sample",
   "version": "0.1.1-preview",
   "unity": "2019.3",
+  "unityRelease": "12f1",
   "description": "Character sample featuring the digital human from 'The Heretic'.",
   "dependencies": {
     "com.unity.demoteam.digital-human": "0.1.1-preview",
